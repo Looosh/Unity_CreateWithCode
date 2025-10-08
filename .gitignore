@@ -1,0 +1,27 @@
+# Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+
+# Visual Studio / Mono files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+*.app
+
+# Memory captures and other generated files
+[Mm]emoryCaptures/
+[Rr]ecordings/
