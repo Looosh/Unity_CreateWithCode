@@ -77,7 +77,6 @@ public class PlayerControllerX : MonoBehaviour
         {
             playerRb.AddForce(Vector3.up * 10, ForceMode.Impulse);
             playerAudio.PlayOneShot(bounceSound, 1.0f);
-
         }
 
     }
